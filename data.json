@@ -1,0 +1,70 @@
+[
+  {
+    "answer": 1,
+    "text": "Hello AI enthusiast,\n\nWelcome back to WhatTheAI, your weekly dose of all things artificial intelligence. Ready to explore the latest and greatest in the AI realm this week? Buckle up, because we're gearing up for an exciting journey!\n\n🚀 Get ready to be amazed as we unveil our spotlight tool of the week. Let the AI adventure begin!"
+  },
+  {
+    "answer": 4,
+    "text": "Pipeline has been fixed and #164795 has passed!\n \nProject        ai / ChatBot\nBranch        \n        feature/rollback-dockerfile\nCommit        \n        50bdje2y1e in !12\nfix: remove Llama cpp python"
+  },
+  {
+    "answer": 1,
+    "text": "Good morning. It’s Wednesday, January 17th.\n\nDid you know: 40 years ago today, the U.S. Supreme Court ruled in a 5-4 decision that the personal taping of television programs using a home VCR to watch later is considered fair use and is not copyright infringement. It was known as the \"Betamax case.\"\n\nIn today’s email:\n\nAdvancements and Innovations in AI\n\nAI in Business and Partnerships"
+  },
+  {
+    "answer": 1,
+    "text": "Happy New Year from the Postman team! Over the past 12 months, we’ve released a number of tools that make it even easier to build, test, and deploy APIs. In this newsletter, we’ve selected five that you can’t afford to miss.\n\nAs the year kicks off, we’re also busy organizing POST/CON 24, our biggest API conference ever. We can’t wait to share more details with you. Sign up to be notified the moment ticket sales open."
+  },
+  {
+    "answer": 3,
+    "text": "I hope this email finds you well. I came across your impressive work online and thought it would be fantastic to explore a collaboration between our teams. Let's discuss further over a virtual coffee this week?\n\nBest,\nAlice"
+  },
+  {
+    "answer": 3,
+    "text": "Trust this email reaches you in good spirits. I am Professor Samuel Rodriguez, currently researching innovative solutions in your field. Your expertise could significantly contribute. Could we arrange a brief call at your earliest convenience?\n\nRegards,\nProf. Rodriguez"
+  },
+  {
+    "answer": 3,
+    "text": "Hope you're doing awesome! Quick favor – I'm working on a project and could use your insights. Mind sparing a few minutes for a chat?\n\nThanks a bunch,\nEmily"
+  },
+  {
+    "answer": 3,
+    "text": "Sara, Long time no talk! How about we plan a weekend getaway or a fun dinner? Life's too short to miss out on making memories. What do you think?"
+  },
+  {
+    "answer": 3,
+    "text": "I hope this email finds you in good health. As the organizer of an upcoming seminar on cutting-edge technologies, I extend an invitation for your participation as a speaker. Your insights would greatly benefit the audience.\n\nRegards,\nDr. Carter"
+  },
+  {
+    "answer": 3,
+    "text": "It's been ages since we caught up. How about grabbing a coffee this weekend? I've got loads of stories to share, and I'd love to hear yours.\n\nCheers,\nJess"
+  },
+  {
+    "answer": 3,
+    "text": "No, I'm about to leave. I'm not sure you will be there, but I hope you will."
+  },
+  {
+    "answer": 3,
+    "text": "How's it going? I was thinking of organizing a neighborhood BBQ this weekend. It's a great way for everyone to unwind and have some fun. What do you say? Bring your favorite dish!"
+  },
+  {
+    "answer": 4,
+    "text": "Maria shared a presentation\nUnknown profile photo\nMaria (maria@gmail.com) has invited you to view the following presentation:\n\nMale childcare leave_224\n\nMaria is the owner\n\nLast edited by Maria 2 days ago"
+  },
+  {
+    "answer": 4,
+    "text": "Jan18Thu\nStand-up Meeting\nFrom Google Calendar\nMatthew has tentatively accepted this event.\nView updated information on Google Calendar"
+  },
+  {
+    "answer": 2,
+    "text": "The Daily Digest for ACME Inc.\nHere's what happened in Datadog on January 12.\n\n Metric Alerts\n12 Total Events\n3 Alerts Triggered\n\t[Triggered] Resource owner/get_rooms has a high p95 latency on env:production\nowner/get_rooms 95th percentile latency is too high.\n\ntrace.ws over env:production,resource_name:owner/get_rooms,service:chat-ws was > 0.5 on average during the last 10m.\n\nThe monitor was last triggered at Fri Jan 12 2024 23:53:14 UTC.\n\n[Monitor Status] · [Edit Monitor] · [Related Logs]\n"
+  },
+  {
+    "answer": 2,
+    "text": "Total Project Errors\n6.9k\nView All Errors\n \nMon\tTue\tWed\tThu\tFri\tSat\tSun\nSentry\nSomething slow?\nTrace those 10-second page loads to poor-performing API calls.\n\nSet Up Performance\nSentry\nTricky bug?\nRewind and replay every step of a user’s journey before and after they encounter an issue.\n\nSet Up Session Replay\nPROJECT\tERRORS\tDROPPED\tTRANSACTIONS\tDROPPED\nandromeda-api\t2.7k\t27.6k\t0\t0"
+  },
+  {
+    "answer": 2,
+    "text": "Issues Breakdown\nNew (77) Escalating (0) Regressed (8) Ongoing (51)\n \t  \t \t \nIssues with the most errors\n2.3k\nOOM command not allowed when used memory > 'maxmemory'. Redis::CommandError app/helpers/base/before_helper.rb check_token\nRuby\nNew\n1.7k\n409 Conflict: User type mismatch board/authentication/authorizer.py store_actors api_v2.threads_list\nPandaflow-API\nOngoing\n444\n(psycopg2.OperationalError) could not translate host name 'postgres' to address: Name or service not known (Background on this error at: https://sqlalche.me/e/14/e3q8) __init__.py connect psycopg2 in connect\nOngoing"
+  }
+]

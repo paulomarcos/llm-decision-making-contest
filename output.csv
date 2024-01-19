@@ -1,0 +1,110 @@
+answer,text,gemini,gpt-3,gpt-4,gemini-answer,gpt-3-answer,gpt-4-answer
+1,"Hello AI enthusiast,
+
+Welcome back to WhatTheAI, your weekly dose of all things artificial intelligence. Ready to explore the latest and greatest in the AI realm this week? Buckle up, because we're gearing up for an exciting journey!
+
+🚀 Get ready to be amazed as we unveil our spotlight tool of the week. Let the AI adventure begin!",-1,1,1,(1),1,1
+4,"Pipeline has been fixed and #164795 has passed!
+ 
+Project        ai / ChatBot
+Branch        
+        feature/rollback-dockerfile
+Commit        
+        50bdje2y1e in !12
+fix: remove Llama cpp python",-1,0,1,(2),2,4
+1,"Good morning. It’s Wednesday, January 17th.
+
+Did you know: 40 years ago today, the U.S. Supreme Court ruled in a 5-4 decision that the personal taping of television programs using a home VCR to watch later is considered fair use and is not copyright infringement. It was known as the ""Betamax case.""
+
+In today’s email:
+
+Advancements and Innovations in AI
+
+AI in Business and Partnerships",-1,1,1,Error,1,1
+1,"Happy New Year from the Postman team! Over the past 12 months, we’ve released a number of tools that make it even easier to build, test, and deploy APIs. In this newsletter, we’ve selected five that you can’t afford to miss.
+
+As the year kicks off, we’re also busy organizing POST/CON 24, our biggest API conference ever. We can’t wait to share more details with you. Sign up to be notified the moment ticket sales open.",-1,1,1,(1),1,1
+3,"I hope this email finds you well. I came across your impressive work online and thought it would be fantastic to explore a collaboration between our teams. Let's discuss further over a virtual coffee this week?
+
+Best,
+Alice",-1,1,1,Error,3,3
+3,"Trust this email reaches you in good spirits. I am Professor Samuel Rodriguez, currently researching innovative solutions in your field. Your expertise could significantly contribute. Could we arrange a brief call at your earliest convenience?
+
+Regards,
+Prof. Rodriguez",-1,1,1,Error,3,3
+3,"Hope you're doing awesome! Quick favor – I'm working on a project and could use your insights. Mind sparing a few minutes for a chat?
+
+Thanks a bunch,
+Emily",-1,1,1,Error,3,3
+3,"Sara, Long time no talk! How about we plan a weekend getaway or a fun dinner? Life's too short to miss out on making memories. What do you think?",-1,1,1,Error,3,3
+3,"I hope this email finds you in good health. As the organizer of an upcoming seminar on cutting-edge technologies, I extend an invitation for your participation as a speaker. Your insights would greatly benefit the audience.
+
+Regards,
+Dr. Carter",-1,1,0,(3),3,4
+3,"It's been ages since we caught up. How about grabbing a coffee this weekend? I've got loads of stories to share, and I'd love to hear yours.
+
+Cheers,
+Jess",-1,1,1,Error,3,3
+3,"No, I'm about to leave. I'm not sure you will be there, but I hope you will.",-1,0,0,Error,4,4
+3,How's it going? I was thinking of organizing a neighborhood BBQ this weekend. It's a great way for everyone to unwind and have some fun. What do you say? Bring your favorite dish!,-1,1,1,(4),3,3
+4,"Maria shared a presentation
+Unknown profile photo
+Maria (maria@gmail.com) has invited you to view the following presentation:
+
+Male childcare leave_224
+
+Maria is the owner
+
+Last edited by Maria 2 days ago",-1,0,1,(4),1,4
+4,"Jan18Thu
+Stand-up Meeting
+From Google Calendar
+Matthew has tentatively accepted this event.
+View updated information on Google Calendar",-1,0,1,(4),2,4
+2,"The Daily Digest for ACME Inc.
+Here's what happened in Datadog on January 12.
+
+ Metric Alerts
+12 Total Events
+3 Alerts Triggered
+	[Triggered] Resource owner/get_rooms has a high p95 latency on env:production
+owner/get_rooms 95th percentile latency is too high.
+
+trace.ws over env:production,resource_name:owner/get_rooms,service:chat-ws was > 0.5 on average during the last 10m.
+
+The monitor was last triggered at Fri Jan 12 2024 23:53:14 UTC.
+
+[Monitor Status] · [Edit Monitor] · [Related Logs]
+",-1,1,1,(2),2,2
+2,"Total Project Errors
+6.9k
+View All Errors
+ 
+Mon	Tue	Wed	Thu	Fri	Sat	Sun
+Sentry
+Something slow?
+Trace those 10-second page loads to poor-performing API calls.
+
+Set Up Performance
+Sentry
+Tricky bug?
+Rewind and replay every step of a user’s journey before and after they encounter an issue.
+
+Set Up Session Replay
+PROJECT	ERRORS	DROPPED	TRANSACTIONS	DROPPED
+andromeda-api	2.7k	27.6k	0	0",-1,1,1,(2),2,2
+2,"Issues Breakdown
+New (77) Escalating (0) Regressed (8) Ongoing (51)
+ 	  	 	 
+Issues with the most errors
+2.3k
+OOM command not allowed when used memory > 'maxmemory'. Redis::CommandError app/helpers/base/before_helper.rb check_token
+Ruby
+New
+1.7k
+409 Conflict: User type mismatch board/authentication/authorizer.py store_actors api_v2.threads_list
+Pandaflow-API
+Ongoing
+444
+(psycopg2.OperationalError) could not translate host name 'postgres' to address: Name or service not known (Background on this error at: https://sqlalche.me/e/14/e3q8) __init__.py connect psycopg2 in connect
+Ongoing",-1,1,1,Error,2,2
